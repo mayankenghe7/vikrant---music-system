@@ -1,0 +1,27 @@
+# Music System Project
+
+Welcome to the Music System Project! This web-based application provides a platform for managing and enjoying your music collections online. Developed using HTML, CSS, and JavaScript, this project offers functionalities for organizing your music library, creating playlists, and playing your favorite tracks seamlessly.
+
+## Key Features:
+
+1. **Music Library Management:**
+   - Organize your music collection by album, artist, genre, and other metadata.
+   - Automatically fetch metadata for imported tracks to enhance organization and search capabilities.
+
+2. **Playback Controls:**
+   - Play, pause, skip, and shuffle functionalities for smooth playback of music tracks.
+   - Adjust volume and basic equalizer settings for personalized audio preferences.
+
+3. **Playlist Creation and Management:**
+   - Create custom playlists and add tracks to them for personalized music experiences.
+   - Reorder and remove tracks within playlists for customization.
+
+4. **Search and Discovery:**
+   - Robust search functionality enables quick access to specific tracks, albums, or artists within your music library.
+   - Recommendations feature suggests similar tracks or artists based on listening history and preferences.
+
+## Technologies Used:
+
+- HTML
+- CSS
+- JavaScript
